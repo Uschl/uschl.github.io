@@ -12,4 +12,4 @@ Caroline Bauer ist die neue Heldin von Ursula Poznanski in den Büchern VANITAS.
 
 > Immer, wenn die Angst zurückkehrt, sehe ich mit Fotos meiner eigenen Beerdigung an. Der helle Holzsarg in der Aufbewahrungshalle. Die vielen Kerzen und das riesige Bild, auf dem ich den Gästen entgegenblicke...
 
-<img src="https://github.com/Uschl/uschl.github.io/blob/master/vanitas.jpg"/>
+<img src="https://bestattungen-blank.de/wp-content/uploads/2015/06/bild-sarg.jpg"/>
